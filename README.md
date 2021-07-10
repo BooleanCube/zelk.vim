@@ -8,5 +8,4 @@ Current appearance:
 
 TODO:
 - [ ] Fix Color Pallete (with the right colors)
-- [ ] Make lightline zelk theme
-- [ ] Make statusline zelk theme
+- [X] Make lightline zelk theme
