@@ -3,7 +3,7 @@ zelk.vim is one of the neovim colorschemes that I have been working on. I am sti
 
 
 Current appearance:
-![image](https://user-images.githubusercontent.com/47650058/125081714-502f7080-e094-11eb-9b52-f318503fc514.png)
+![image](https://user-images.githubusercontent.com/47650058/125149745-b8b83500-e108-11eb-8e91-4758fbb06c5f.png)
 
 
 TODO:
