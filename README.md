@@ -3,9 +3,10 @@ zelk.vim is one of the neovim colorschemes that I have been working on. I am sti
 
 
 Current appearance:
-![image](https://user-images.githubusercontent.com/47650058/125149745-b8b83500-e108-11eb-8e91-4758fbb06c5f.png)
+![image](https://user-images.githubusercontent.com/47650058/125184921-977e4400-e1ef-11eb-9f24-5002f7d28e92.png)
 
 
 TODO:
-- [ ] Fix Color Pallete (with the right colors)
+- [ ] this readme
+- [X] Fix Color Pallete (with the right colors)
 - [X] Make lightline zelk theme
