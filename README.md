@@ -87,5 +87,5 @@ TODO:
 - [X] Make lightline zelk theme
 
 ----
-Created by BooleanCube <br/>
+Created by [BooleanCube](https://github.com/BooleanCube) <br/>
 Inspired by schnensch and [Zorin OS](https://zorinos.com/)
