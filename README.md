@@ -11,7 +11,7 @@ Installing the full colorscheme can be done in any plugin manager, if yours is n
     1. Install Vundle successfully
   
     2. Open your .vimrc and place this plugin in your file and save.<br/>
-    ```vim@shink
+    ```vim
     call vundle#begin()
       Plugin 'preservim/nerdtree'
     call vundle#end()
