@@ -6,7 +6,7 @@ Zelk.vim is a blue themed colorscheme that I have been creating and editing for 
 
 ### About
 
-A clean, minimalistic vim/neovim colorscheme originally inspired by the Zorin OS layout.
+A clean, minimalistic vim/neovim colorscheme originally inspired by the Zorin OS theme.
 
 This theme works amazingly with [vim-polyglot](https://github.com/sheerun/vim-polyglot) for syntax highlighting.
 
