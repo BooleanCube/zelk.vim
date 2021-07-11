@@ -28,7 +28,7 @@ Installing the full colorscheme can be done in any plugin manager, if yours is n
 1. Add the following text to your `vimrc` file and save it.
     ```vim
     call plug#begin()
-      Plug 'preservim/nerdtree'
+      Plug 'BooleanCube/zelk.vim'
     call plug#end()
     ```
 1. Restart your terminal or emulator, run vim/neovim, and run the `:PluginInstall` statement to install your plugins and make sure you relaunch neovim to see the results.
