@@ -7,16 +7,16 @@ Zelk.vim is a blue themed colorscheme that I have been creating and editing for 
 Installing the full colorscheme can be done in any plugin manager, if yours is not listed just search up how to install plugins using that plugin manager.
 
 <details>
-  <summary> Vundle </summary>
-  
-    1. Install Vundle successfully
-    2. Open your .vimrc and place this plugin in your file and save.<br/>
+  <summary>Vundle</summary>
+
+1. Install Vundle successfully.
+1. Add the following text to your `vimrc` file and save it.
     ```vim
     call vundle#begin()
       Plugin 'preservim/nerdtree'
     call vundle#end()
     ```
-    3. Open Neovim in your terminal or emulator and type :PlugInstall and then relaunch neovim.
+1. Restart your terminal or emulator, run vim/neovim, and run the `:PluginInstall` statement to install your plugins and make sure you relaunch neovim to see the results.
 </details>
 
 Current appearance:
