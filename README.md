@@ -85,3 +85,7 @@ TODO:
 - [ ] this readme
 - [X] Fix Color Pallete (with the right colors)
 - [X] Make lightline zelk theme
+
+----
+Created by BooleanCube <br/>
+Inspired by schnensch and [Zorin OS](https://zorinos.com/)
