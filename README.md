@@ -38,7 +38,7 @@ Installing the full colorscheme can be done in any plugin manager, if yours is n
 *Note: As of now, this theme only supports lightline and doesn't have a theme ready for other status lines yet.*
 
 1. First of all, you want to make sure you have [lightline](https://github.com/itchyny/lightline.vim) installed (and [lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline) is optional which adds the top bufferline).
-2. Make sure in your lightline settings that should have come from their documentation (you can use [mine]() as an example) has the colorscheme component and put `zelk` in that component. Example:
+2. Make sure in your lightline settings that should have come from their documentation (you can use [mine](https://github.com/BooleanCube/dotfiles/blob/main/config/nvim/init.vim) as an example) has the colorscheme component and put `zelk` in that component. Example:
 ```vim
 let g:lightline = {
       \ 'colorscheme': 'zelk',
@@ -49,8 +49,31 @@ let g:lightline = {
       \ 'component_function': {
       \   'gitbranch': 'FugitiveHead'
       \ }
+      \ }
 ```
-3. 
+3. If you installed lightline-bufferline, then read their documentation to mess around with some more but here is an example:
+```vim
+let g:lightline = {
+      \ 'colorscheme': 'zelk',
+      \ 'active': {
+      \   'left': [ [ 'mode', 'paste' ],
+      \             [ 'gitbranch', 'readonly', 'filename', 'modified' ] ]
+      \ },
+      \ 'component_function': {
+      \   'gitbranch': 'FugitiveHead'
+      \ },
+      \ 'tabline': {
+      \   'left': [ ['buffers'] ],
+      \   'right': [ ['close'] ]
+      \ },
+      \ 'component_expand': {
+      \   'buffers': 'lightline#bufferline#buffers'
+      \ },
+      \ 'component_type': {
+      \   'buffers': 'tabsel'
+      \ }
+      \ }
+``` 
 
 TODO:
 - [ ] this readme
