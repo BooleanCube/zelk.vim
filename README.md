@@ -34,6 +34,23 @@ Installing the full colorscheme can be done in any plugin manager, if yours is n
 1. Restart your terminal or emulator, run vim/neovim, and run the `:PluginInstall` statement to install your plugins and make sure you relaunch neovim to see the results.
 </details>
 
+###Status Line Integration
+*Note: As of now, this theme only supports lightline and doesn't have a theme ready for other status lines yet.*
+
+1. First of all, you want to make sure you have [lightline](https://github.com/itchyny/lightline.vim) installed (and [lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline) is optional which adds the top bufferline).
+2. Make sure in your lightline settings that should have come from their documentation (you can use [mine]() as an example) has the colorscheme component and put `zelk` in that component. Example:
+```vim
+let g:lightline = {
+      \ 'colorscheme': 'zelk',
+      \ 'active': {
+      \   'left': [ [ 'mode', 'paste' ],
+      \             [ 'gitbranch', 'readonly', 'filename', 'modified' ] ]
+      \ },
+      \ 'component_function': {
+      \   'gitbranch': 'FugitiveHead'
+      \ }
+```
+3. 
 
 TODO:
 - [ ] this readme
