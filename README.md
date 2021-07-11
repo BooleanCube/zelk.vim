@@ -13,9 +13,9 @@ Installing the full colorscheme can be done in any plugin manager, if yours is n
     2.
 
     ```vim
-      call vundle#begin()
-        Plugin 'preservim/nerdtree'
-      call vundle#end()
+    call vundle#begin()
+      Plugin 'preservim/nerdtree'
+    call vundle#end()
     ```
 
     3. Open Neovim in your terminal or emulator and type `:PlugInstall` and then relaunch neovim.
