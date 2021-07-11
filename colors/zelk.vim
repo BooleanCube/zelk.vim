@@ -1,3 +1,8 @@
+" ▀▀█ █▀▀ █   █ █
+" ▄▀  █▀▀ █   █▀▄
+" ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀           
+
+
 hi clear
 syntax reset
 let g:colors_name = "zelk"
