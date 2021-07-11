@@ -7,7 +7,7 @@ Zelk.vim is a blue themed colorscheme that I have been creating and editing for 
 Installing the full colorscheme can be done in any plugin manager, if yours is not listed just search up how to install plugins using that plugin manager.
 
 <details>
-  <summary> Vundle
+  <summary> Vundle </summary>
     1. Install Vundle successfully
     2.
     ```
