@@ -1,8 +1,14 @@
 # zelk.vim
-## very minimalistic and smooth colorscheme
+## very clean and minimalistic colorscheme
 Zelk.vim is a blue themed colorscheme that I have been creating and editing for neovim, and this theme was mainly inspired by schnensch. This was designed to be a very minimalistic theme which is smooth and relaxing for the eyes.
 
 ![image](https://user-images.githubusercontent.com/47650058/125184921-977e4400-e1ef-11eb-9f24-5002f7d28e92.png)
+
+### About
+
+A clean, minimalistic vim/neovim colorscheme originally inspired by the Zorin OS layout.
+
+This theme works amazingly with [vim-polyglot](https://github.com/sheerun/vim-polyglot) for syntax highlighting.
 
 ### Installation
 
@@ -82,9 +88,7 @@ let g:lightline = {
   
   
 TODO:
-- [ ] this readme
-- [X] Fix Color Pallete (with the right colors)
-- [X] Make lightline zelk theme
+- [ ] Try messing around with more colorschemes.
 
 ----
 Created by [BooleanCube](https://github.com/BooleanCube) <br/>
