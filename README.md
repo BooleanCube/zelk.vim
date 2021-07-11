@@ -1,4 +1,5 @@
 # zelk.vim
+## one of my very minimalistic colorschemes
 zelk.vim is one of the neovim colorschemes that I have been working on. I am still playing around with the colors and seeing what I can do to make it look the best. I still have a load to finish in this so it will take me some time.
 
 
