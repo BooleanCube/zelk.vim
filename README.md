@@ -2,6 +2,8 @@
 ## one of my very minimalistic colorschemes
 Zelk.vim is a blue themed colorscheme that I have been creating and editing for neovim, and this theme was mainly inspired by schnensch. This was designed to be a very minimalistic theme which is smooth and relaxing for the eyes.
 
+![image](https://user-images.githubusercontent.com/47650058/125184921-977e4400-e1ef-11eb-9f24-5002f7d28e92.png)
+
 ### Installation
 
 Installing the full colorscheme can be done in any plugin manager, if yours is not listed just search up how to install plugins using that plugin manager.
@@ -31,9 +33,6 @@ Installing the full colorscheme can be done in any plugin manager, if yours is n
     ```
 1. Restart your terminal or emulator, run vim/neovim, and run the `:PluginInstall` statement to install your plugins and make sure you relaunch neovim to see the results.
 </details>
-
-Current appearance:
-![image](https://user-images.githubusercontent.com/47650058/125184921-977e4400-e1ef-11eb-9f24-5002f7d28e92.png)
 
 
 TODO:
