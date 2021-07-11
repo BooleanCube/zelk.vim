@@ -87,7 +87,8 @@ let g:lightline = {
 </details>
   
   
-TODO:
+### TODO
+
 - [ ] Try messing around with more colorschemes.
 
 ----
