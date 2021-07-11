@@ -9,12 +9,25 @@ Installing the full colorscheme can be done in any plugin manager, if yours is n
 <details>
   <summary>Vundle</summary>
 
-1. Install Vundle successfully.
+1. Install [Vundle](https://github.com/VundleVim/Vundle.vim) successfully.
 1. Add the following text to your `vimrc` file and save it.
     ```vim
     call vundle#begin()
       Plugin 'BooleanCube/zelk.vim'
     call vundle#end()
+    ```
+1. Restart your terminal or emulator, run vim/neovim, and run the `:PluginInstall` statement to install your plugins and make sure you relaunch neovim to see the results.
+</details>
+
+<details>
+  <summary>Vim-Plug</summary>
+
+1. Install [Vim-Plug](https://github.com/junegunn/vim-plug) successfully.
+1. Add the following text to your `vimrc` file and save it.
+    ```vim
+    call plug#begin()
+      Plug 'preservim/nerdtree'
+    call plug#end()
     ```
 1. Restart your terminal or emulator, run vim/neovim, and run the `:PluginInstall` statement to install your plugins and make sure you relaunch neovim to see the results.
 </details>
