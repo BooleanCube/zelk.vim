@@ -38,6 +38,9 @@ Installing the full colorscheme can be done in any plugin manager, if yours is n
 
 *Note: As of now, this theme only supports lightline and doesn't have a theme ready for other status lines yet.*
 
+<details>
+  <summary>Vim-Plug</summary>
+
 1. First of all, you want to make sure you have [lightline](https://github.com/itchyny/lightline.vim) installed (and [lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline) is optional which adds the top bufferline).
 2. Make sure in your lightline settings that should have come from their documentation (you can use [mine](https://github.com/BooleanCube/dotfiles/blob/main/config/nvim/init.vim) as an example) has the colorscheme component and put `zelk` in that component. Example:
 ```vim
@@ -75,7 +78,9 @@ let g:lightline = {
       \ }
       \ }
 ``` 
-
+</details>
+  
+  
 TODO:
 - [ ] this readme
 - [X] Fix Color Pallete (with the right colors)
