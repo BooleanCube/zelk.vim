@@ -1,9 +1,9 @@
-" zelk.vim created BooleanCube
+" zelk.vim
+" created by BooleanCube
 
 " ▀▀█ █▀▀ █   █ █
 " ▄▀  █▀▀ █   █▀▄
-" ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀           
-
+" ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀ 
 
 hi clear
 syntax reset
