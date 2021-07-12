@@ -1,3 +1,5 @@
+" zelk.vim created BooleanCube
+
 " ▀▀█ █▀▀ █   █ █
 " ▄▀  █▀▀ █   █▀▄
 " ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀           
