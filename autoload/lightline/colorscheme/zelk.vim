@@ -1,6 +1,9 @@
 " zelk.vim
 " created by BooleanCube
-" Inspired by Tokyonight, have to change more later.
+
+" ▀▀█ █▀▀ █   █ █
+" ▄▀  █▀▀ █   █▀▄
+" ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀ 
 
 "{{{Palette
 let s:p = {'normal': {}, 'inactive': {}, 'insert': {}, 'replace': {}, 'visual': {}, 'tabline': {}}
