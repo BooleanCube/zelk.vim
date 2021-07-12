@@ -3,7 +3,7 @@
 
 ▀▀█ █▀▀ █ &nbsp; &nbsp; &nbsp;█&nbsp; █ <br/>
 ▄▀&nbsp; &nbsp;█▀▀&nbsp; █ &nbsp; &nbsp; &nbsp;█▀▄ <br/>
-▀▀▀ ▀▀▀ ▀▀▀ ▀&nbsp; ▀           
+▀▀▀ ▀▀▀ ▀▀▀ ▀&nbsp; &nbsp; ▀           
 
 Zelk.vim is a blue themed colorscheme that I have been creating and editing for neovim, and this theme was mainly inspired by schnensch. This was designed to be a very minimalistic theme which is smooth and relaxing for the eyes.
 
