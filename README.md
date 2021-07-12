@@ -1,7 +1,7 @@
 # zelk.vim
 ## very clean and minimalistic colorscheme
 
-▀▀█ █▀▀ █ &nbsp; █ █ <br/>
+▀▀█ █▀▀ █ &nbsp; █&nbsp; █ <br/>
 ▄▀&nbsp; &nbsp; █▀▀ █ &nbsp; █▀▄ <br/>
 ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀           
 
