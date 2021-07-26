@@ -94,7 +94,7 @@ let g:lightline = {
   
 ### TODO
 
-- [ ] Try messing around with more colorschemes.
+- [ ] Try messing around with more color.
 
 ----
 Created by [BooleanCube](https://github.com/BooleanCube) <br/>
